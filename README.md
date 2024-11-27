@@ -1,10 +1,10 @@
 # RETO-2-POO
-### Soy Jhon Sebastian Rodriguez Ramirez y pertenezco al grupo de "Parchados".
+### Soy Jhon Sebastian Rodriguez Ramirez y hago parte del grupo "Parchados".
 
 
 
 ## Caso de estudio: Restaurante
-A partir de este caso, fueron modelados los siguientes diagramas de UML
+Se modelaron los diagramas UML a partir de este caso.
 
 ### Relacion Restaurante - cliente
 ```mermaid
